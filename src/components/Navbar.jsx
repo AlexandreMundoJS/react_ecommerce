@@ -50,12 +50,12 @@ const Right = styled.div`
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  margin-left: 25px;
-`;
+  `;
 
 const MenuItem = styled.div`
     font-size: 14px;
     cursor: pointer;
+    margin-left: 25px;
 `
 
 const Navbar = () => {
